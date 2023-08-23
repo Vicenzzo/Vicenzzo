@@ -2,7 +2,7 @@
 
 - 💻 Estudando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste
 - 💻 Técnico em Desenvolvimento de Sistemas - Etec de Itaquera
-- 💻  Desenvolvedor desde os meus 14 anos
+- 💻  Iniciei como desenvolvedor desde os 14 anos
 
 <br>
 
